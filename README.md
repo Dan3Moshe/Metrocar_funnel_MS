@@ -13,7 +13,7 @@
   2. Metrocar_aggregated_data.xlsx - data extracted by SQL, code in sql_script under building Metrocar funnel.
   3. Metrocar_funnel_analysis_slides.pptx - slides for a video presentation relaying the results.
   4. Metrocar_price_surging.xlsx - data extracted by SQL, code in sql_script under price surging.
-  5. Metrocar_funnel_analysis.docx - Globox A/B testing data analysis written_report.
+  5. Metrocar_funnel_analysis.docx - Metrocar funnel analysis written_report.
   6. sql_script - SQL script used to extract data for analysis for current project.
 
 ## Links to Tableau Dashboards
