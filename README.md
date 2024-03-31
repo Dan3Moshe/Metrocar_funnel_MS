@@ -18,6 +18,11 @@
   5. Metrocar_funnel_analysis.docx - Metrocar funnel analysis written_report.
   6. sql_script - SQL script used to extract data for analysis for current project.
 
+## Links To Spreadsheets
+   [1.Metrocar Aggregated](https://docs.google.com/spreadsheets/d/13eC2QZO-DL9E2HwEqRClusCPGmsoCfWe/edit?usp=drive_link&ouid=115094650836316658046&rtpof=true&sd=true)
+   
+   [2.Price Surging](https://docs.google.com/spreadsheets/d/1QOi42PVopjoTEeJoz5mjpaH7lkYEEzxY/edit?usp=drive_link&ouid=115094650836316658046&rtpof=true&sd=true)
+   
 ## Links to Tableau Dashboards
   [1.Price Surging Dashboard](https://public.tableau.com/app/profile/dan.moshe/viz/Project_metrocar_price_surge/Dashboard1?publish=yes)
   
