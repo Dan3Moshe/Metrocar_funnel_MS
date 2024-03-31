@@ -11,10 +11,9 @@
 
 ## Table of contents
 
-  3. Metrocar_funnel_analysis_slides.pptx - slides for a video presentation relaying the results.
-  4. Metrocar_price_surging.xlsx - data extracted by SQL, code in sql_script under price surging.
-  5. Metrocar_funnel_analysis.docx - Metrocar funnel analysis written_report.
-  6. script - SQL script used to extract data for analysis for current project.
+  1. [1.Metrocar Slides](https://docs.google.com/presentation/d/1NLXE5K1rfblNOvsl8S_XhNMRLFfFpPEc/edit?usp=drive_link&ouid=115094650836316658046&rtpof=true&sd=true) - slides for a video presentation relaying the results.
+  2. Metrocar_funnel_analysis.docx - Metrocar funnel analysis written_report.
+  3. Metrocar_script.sql - SQL script used to extract data for analysis for current project.
 
 ## Links To Spreadsheets
 
