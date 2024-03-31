@@ -1,5 +1,7 @@
 # Metrocar funnel analysis Master school
-
+  This project aims to analyze the customer funnel of Metrocar, 
+  a ride-sharing app (similar to Uber/Lyft), 
+  to identify areas for improvement and optimization.
 ## The project features four stages:
 
   1. Extraction of user-level and ride-level aggregated dataset using SQL. 
