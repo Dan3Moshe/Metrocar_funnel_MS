@@ -22,6 +22,6 @@
    [2.Price Surging](https://docs.google.com/spreadsheets/d/1QOi42PVopjoTEeJoz5mjpaH7lkYEEzxY/edit?usp=drive_link&ouid=115094650836316658046&rtpof=true&sd=true)
    
 ## Links to Tableau Dashboards
-  [1.Price Surging Dashboard](https://public.tableau.com/app/profile/dan.moshe/viz/Project_metrocar_price_surge/Dashboard1?publish=yes)
+  [1.Price Surging Dashboard](https://public.tableau.com/app/profile/dan.moshe/viz/PriceSurgesatMetrocar/Dashboard1)
   
-  [2.User/Rides Funnel Level Dashboard](https://public.tableau.com/app/profile/dan.moshe/viz/Project2_metrocar_funnel/RidesUsersFunnel?publish=yes)
+  [2.User/Rides Funnel Level Dashboard](https://public.tableau.com/app/profile/dan.moshe/viz/MetroCarFunnelAnalysis_17127349223480/RidesUsersFunnel)
