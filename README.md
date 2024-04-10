@@ -12,7 +12,7 @@
 ## Table of contents
 
   1. Metrocar_funnel_analysis.docx - Metrocar funnel analysis written_report.
-  2. [Metrocar Slides](https://docs.google.com/presentation/d/1NLXE5K1rfblNOvsl8S_XhNMRLFfFpPEc/edit?usp=drive_link&ouid=115094650836316658046&rtpof=true&sd=true) - slides for a video presentation relaying the results.
+  2. [Metrocar Slides](https://docs.google.com/presentation/d/1NLXE5K1rfblNOvsl8S_XhNMRLFfFpPEc/edit#slide=id.p1) - slides for a video presentation relaying the results.
   3. Metrocar_script.sql - SQL script used to extract data for analysis for current project.
 
 ## Links To Spreadsheets
