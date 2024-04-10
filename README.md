@@ -25,5 +25,3 @@
   [1.Price Surging Dashboard](https://public.tableau.com/app/profile/dan.moshe/viz/Project_metrocar_price_surge/Dashboard1?publish=yes)
   
   [2.User/Rides Funnel Level Dashboard](https://public.tableau.com/app/profile/dan.moshe/viz/Project2_metrocar_funnel/RidesUsersFunnel?publish=yes)
-  
-  [3.Extar Dashboard](https://public.tableau.com/app/profile/dan.moshe/viz/Project2_metrocar_funnel/UserCountvsMonthsvsAgeGroupssegmentedbyFunnelNames?publish=yes)
